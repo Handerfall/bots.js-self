@@ -22,7 +22,7 @@ exports.destroy = function(bots){
     bots = []
     this.bots = bots.length;
 }
-exports.add = function(bots,tokens){
+exports.add = function(bots){
     for(let i = 0;i < tokens.length;i++){
         bots.push(new ds.Client())
     }
