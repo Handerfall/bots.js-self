@@ -1,4 +1,4 @@
-# hander.js
+# bots.js-self
 Библиотека JavaScript для запуска self-ботов и взаимодействия с Discord API
 ## Установка
 Требуется Node.js 12.0.0 или новее.
