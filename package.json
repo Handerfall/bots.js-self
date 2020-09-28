@@ -1,13 +1,13 @@
 {
   "name": "hander-bots.js",
   "version": "1.0.0",
-  "description": "",
+  "description": "Библиотека JavaScript для запуска self-ботов и взаимодействия с Discord API",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["Discord","bots","Discord API","Discord Bots"],
+  "author": "Handerfall",
   "license": "ISC",
   "dependencies": {
     "discord.js": "^12.3.1"
